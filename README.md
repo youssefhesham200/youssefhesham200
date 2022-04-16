@@ -7,6 +7,8 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-el-baghdady-8344ba210/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/youssefhesham8)
+
 
 <!--
 **youssefhesham200/youssefhesham200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
