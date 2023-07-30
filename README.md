@@ -1,4 +1,4 @@
-### Hi there 👋 I'M youssef hesham
+### Hi there 👋 I'M youssef Elbaghdady
 
 - 🔭 I’m currently an artificial intelligence student at cairo university 
 - 🌱 I’m currently learning deepLearning ,computer vision, NLP 
